@@ -3,7 +3,7 @@ This task involved building and evaluating a binary classification model using S
 
 Steps Performed:
 
-##1. Data Loading and Preparation:
+#1. Data Loading and Preparation:
 
 Loaded the breast cancer dataset from a CSV file.
 
